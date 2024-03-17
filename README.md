@@ -34,5 +34,9 @@ node consumer.js
 Ensure that you have Node.js installed on your machine to run these commands.
 
 
-https://tinyurl.com/24swc8jy
+## Site Dashboard for Tower 9
+![Site Dashboard for Tower 9](siteDashboard.png)
+
+## Security Alarm System
+![Security Alarm System](landingPage2.png)
 
