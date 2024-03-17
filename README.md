@@ -34,5 +34,5 @@ node consumer.js
 Ensure that you have Node.js installed on your machine to run these commands.
 
 
-![Uploading landingPage.png…]()
+https://tinyurl.com/24swc8jy
 
