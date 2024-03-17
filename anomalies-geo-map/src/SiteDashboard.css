@@ -1,0 +1,49 @@
+/* SiteDashboard.css */
+.dashboard-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 800px;
+    margin-top:10%;
+  }
+  
+  .dashboard-title {
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .chart-container {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+  }
+  
+  /* Customize the colors and fonts of the tooltip */
+  .recharts-tooltip-wrapper {
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+  }
+  
+  /* Legend styles */
+  .recharts-legend-wrapper {
+    padding-top: 10px;
+  }
+  
+  /* Enhance the look of the axes */
+  .recharts-cartesian-axis-tick-line,
+  .recharts-cartesian-axis-line {
+    stroke: #ccc;
+  }
+  
+  .recharts-text {
+    fill: #666;
+  }
+  
